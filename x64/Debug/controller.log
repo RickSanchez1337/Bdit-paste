@@ -1,0 +1,117 @@
+﻿  main.cc
+D:\Source Codes\Aspect-Rust-Rewrite\controller\driver_ctrl.h(195,72): warning C4244: '=': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(60,49): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(61,45): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(63,49): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(81,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(86,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(86,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(86,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(86,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(88,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(88,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(92,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(92,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(96,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(103,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(104,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(106,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(106,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(106,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(106,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(107,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(107,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(107,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(107,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(108,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(108,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(108,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(108,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(109,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(109,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(109,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(109,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(111,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(111,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(118,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(117,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(124,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(123,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(132,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(132,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\menu\menu.h(156,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\D3D\Direct3D.hpp(27,1): warning C4005: 'M_PI': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(22): message : see previous definition of 'M_PI'
+D:\Source Codes\Aspect-Rust-Rewrite\controller\utils\math.h(115,1): warning C4005: 'M_PI': macro redefinition
+D:\Source Codes\Aspect-Rust-Rewrite\controller\renderer\D3D\Direct3D.hpp(27): message : see previous definition of 'M_PI'
+D:\Source Codes\Aspect-Rust-Rewrite\controller\utils\math.h(254,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Source Codes\Aspect-Rust-Rewrite\controller\utils\math.h(256,19): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Source Codes\Aspect-Rust-Rewrite\controller\utils\math.h(258,19): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Source Codes\Aspect-Rust-Rewrite\controller\utils\math.h(260,19): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Source Codes\Aspect-Rust-Rewrite\controller\utils\math.h(261,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(118,46): warning C4002: too many arguments for function-like macro invocation 'D3DCOLOR_XRGB'
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(160,19): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(161,18): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(162,94): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(168,21): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(169,18): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(171,94): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(173,21): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(174,18): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(176,94): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(178,19): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(179,20): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(181,94): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(183,19): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(184,20): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(186,94): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(188,19): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(189,18): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(191,94): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(198,10): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(199,10): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(200,11): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(201,11): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(229,10): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(230,10): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(231,11): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(232,11): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(264,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(265,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(267,18): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(280,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(302,21): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(303,18): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(305,94): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(307,21): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(308,18): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(310,94): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(312,19): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(313,20): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(315,94): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(317,19): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(318,20): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(320,94): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(322,19): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(323,18): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(325,94): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(442,11): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'uint64_t'
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(442,11): message : consider using '%llx' in the format string
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(442,11): message : consider using '%Ix' in the format string
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(442,11): message : consider using '%I64x' in the format string
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(671,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(671,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(751,8): warning C4552: '|': result of expression not used
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(1150,23): warning C4018: '<': signed/unsigned mismatch
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(1552,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(1552,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(1552,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(1601,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(2089,30): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(2090,30): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(2533,44): warning C4244: 'argument': conversion from 'float' to 'BYTE', possible loss of data
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(449): warning C4715: 'scan_for_klass': not all control paths return a value
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(644): warning C4715: 'GetPosition': not all control paths return a value
+D:\Source Codes\Aspect-Rust-Rewrite\controller\sdk\classes.h(612): warning C4715: 'BasePlayer::GetTransformPosition': not all control paths return a value
+D:\Source Codes\Aspect-Rust-Rewrite\controller\main.cc(776): warning C4715: 'distance_cursor': not all control paths return a value
+  controller.vcxproj -> D:\Source Codes\Aspect-Rust-Rewrite\x64\Debug\controller.exe
